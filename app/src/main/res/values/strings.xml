@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WorkoutApp</string>
+    <string name="start">START</string>
+    <string name="are_you_sure">Are you sure</string>
+    <string name="this_will_stop_your_workout_are_you_sure_you_want_to_quit">This will stop your workout. Are you sure you want to quit?</string>
+    <string name="image" />
+</resources>
